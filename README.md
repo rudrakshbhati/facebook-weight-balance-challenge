@@ -23,7 +23,7 @@ WL and WR indicate the weight added to the left and right sides, respectively.
 
 Consider the following input: 
 
-4 
+4
 0 1 
 0 2 
 0 
